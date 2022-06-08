@@ -1,0 +1,44 @@
+h2 {
+    margin-left: 14px;
+}
+
+.image-zone {
+    position: absolute;
+    left: 55%;
+    top: 18%;
+    img {
+        border-radius: 250px;
+        margin-top: 0px;
+        height: 500px;
+        animation: fadeIn 1.5s;
+    }
+}
+
+.virtual-cv {
+    height: fit-content;
+    width: 100%;
+    margin-left: 10%;
+    position: relative;
+    margin-top: 50%;
+    font-family:'Courier New';
+    h1{
+        font-size: 23px;
+        padding-top: 20px;
+        padding-left: 15px;
+        height: 50px;
+        background-color: rgb(82, 82, 82);
+        color: #fff;
+    }
+    h2 {
+        padding-top: 17px;
+        color:#fff;
+        margin-left: 70px;
+        background-color: rgb(119, 118, 118);
+        padding-left: 15px;
+        height: 40px;
+    }
+}
+
+.bottom-wrapper {
+    height: fit-content;
+}

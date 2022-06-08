@@ -1,5 +1,6 @@
 import { Outlet } from 'react-router-dom'
 import Sidebar from '../Sidebar'
+import Bottom from '../Bottom'
 import './index.scss';
 
 const Layout = () => {

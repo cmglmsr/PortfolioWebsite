@@ -1,0 +1,27 @@
+.bottom-bar {
+    ul {
+        list-style-type: none;
+        columns: 3;
+        color: rgb(141, 138, 138);
+        
+        display: inline-block;
+        column-gap: 70px;
+        li {
+            height: 140px;
+            width: 100%;
+            padding-top: 1px;
+            p {
+                font-family: 'Coolvetica';
+                font-size: 15px;
+            }
+            a {
+                color:rgb(141, 138, 138); 
+                display: block;
+                height: 20px;
+                &:hover {
+                    color: #fff;
+                }
+            }
+        }
+    }
+}
