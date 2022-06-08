@@ -11,10 +11,10 @@ function App() {
     <>
     <Routes>
       <Route path="https://cmglmsr.github.io/PortfolioWebsite/" element={<Layout />}>
-      <Route path="https://cmglmsr.github.io/PortfolioWebsite/" index element={<Home />} />
-      <Route path="https://cmglmsr.github.io/about" element={<About />} />
-      <Route path="https://cmglmsr.github.io/contact" element={<Contact />} />
-      <Route path="https://cmglmsr.github.io/research" element={<Research />} />
+      <Route index element={<Home />} />
+      <Route path="/about" element={<About />} />
+      <Route path="/contact" element={<Contact />} />
+      <Route path="/research" element={<Research />} />
       </Route>
     </Routes>
     </>
