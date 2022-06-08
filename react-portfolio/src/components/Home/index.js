@@ -31,7 +31,7 @@ const Home = () => {
         <div className="container home-page">
             <div className="text-zone">
                 <h1 className='header1'>
-                    Hi, <br /> I am
+                    31, <br /> I am
                     Cem Gülümser
                 </h1>
 
