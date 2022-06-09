@@ -15,7 +15,6 @@ function App() {
       <Route path="https://cmglmsr.github.io/PortfolioWebsite/about" element={<About />} />
       <Route path="https://cmglmsr.github.io/PortfolioWebsite/contact" element={<Contact />} />
       <Route path="https://cmglmsr.github.io/PortfolioWebsite/research" element={<Research />} />
-      </Route>
     </Routes>
     </>
   );
