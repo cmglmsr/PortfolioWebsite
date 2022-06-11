@@ -41,6 +41,8 @@ const About = () =>  {
                     <Dropdown title="Languages" item1="C1 English: IELTS 8.0" item2="A2 German: Goethe Zertifikat A2"/>
                     <Dropdown title="Projects & Research" item1="Health and Education Foundation Project Competition Winner - Rainwater Harvest Project: 2018" 
                     item2="Android Calendar Application - Calendy: Coded in Android Studio with Java and XML" item3="Research Paper - Detection of Face Morph Attacks on Facial ID Verification Systems: 2021"/>
+                    <Dropdown title="Community Involvement & Leadership" item1="Red Cross Member: 2017-2019" item2="Animal Shelter Club Member: 2017-2020" item3="MUN Club Executive Member: 2018-2020"
+                    item4="Tubitak Project Club Co-President: 2019-2020"/>
                 </div>
             </div>
 
