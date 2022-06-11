@@ -25,11 +25,12 @@ const Contact = () => {
         <div className='container contact-page'>
             <div className='text-zone'>
                 <h1>
-                    Contact Me!
+                    Contact Me
                 </h1>
-                <p>
-                    Paragraph for the contact page!
-                </p>
+                <h2>
+                    Fill in the form below to send an E-mail to my personal mail address.
+                    I will reply to you as soon as possible.
+                </h2>
                 <div className='contact-form'>
                     <form ref={refForm} onSubmit={sendEmail}>
                         <ul>
