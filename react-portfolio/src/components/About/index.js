@@ -1,5 +1,6 @@
 import './index.scss'
 import Bottom from '../../components/Bottom'
+import Dropdown from '../../components/Dropdown'
 import myImage from '../../assets/images/me.jpg'
 
 const About = () =>  {
@@ -33,15 +34,11 @@ const About = () =>  {
                 <h1>
                     Virtual CV
                 </h1>
-                <h2>
-                    Education
-                </h2>
-                <h2>
-                     Computer Skills
-                </h2>
-                <h2>
-                    Languages
-                </h2>
+                <div className="dropdownmenu">
+                    <Dropdown title="Education" item1="* test" item2="* Bilkent University"/>
+                    <Dropdown title="Computer Skills" item1="Education"/>
+                    <Dropdown title="Languages" item1="Education"/>
+                </div>
             </div>
 
             <div className="bottom-wrapper">

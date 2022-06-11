@@ -19,9 +19,7 @@ const Contact = () => {
                 alert('Failed to send the message')
             }
         )
-
     }
-    
     return (
         <>
         <div className='container contact-page'>
