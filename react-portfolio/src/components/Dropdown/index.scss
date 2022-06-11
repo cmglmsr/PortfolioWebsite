@@ -7,7 +7,6 @@
     .ddButton {
         padding: 15px 20px;
         background: rgb(211, 211, 211);
-        box-shadow: 3px 3px 10px 6px rgba(0,0,0,0.06);
         font-weight: bold;
         color: #333;
         display: flex;
@@ -25,9 +24,22 @@
     .ddContent {
         animation:1s forwards;
         .ddItem {
+            cursor:auto;
+            font-size: 13px;
             background-color: #fff;
             padding: 10px;
             animation: fadeIn 0.2s;
+            box-shadow: 3px 3px 10px 6px rgba(0,0,0,0.06);
+
+            &:hover{
+                display: block;
+                transition: all 0.3s;
+                color: #ffd700;
+                background-color: rgb(116, 114, 114);;
+                font-size: 15px;
+                font-weight: bold;
+            }
+
         }
     }
 }

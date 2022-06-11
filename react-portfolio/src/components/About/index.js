@@ -35,9 +35,12 @@ const About = () =>  {
                     Virtual CV
                 </h1>
                 <div className="dropdownmenu">
-                    <Dropdown title="Education" item1="* test" item2="* Bilkent University"/>
-                    <Dropdown title="Computer Skills" item1="Education"/>
-                    <Dropdown title="Languages" item1="Education"/>
+                    <Dropdown title="Education" item1="American Collegiate Institute: 2016-2020" item2="Bilkent University: 2020 - Present"/>
+                    <Dropdown title="Computer Skills" item1="Intermediate C++ and Java Coding" item2="Python for Cybersecurity / Ethical Hacking + Experience with Kali Linux and Network Libraries" 
+                    item3="Frontend Development with React.js, HTML and SCSS" item4="Extensive Experience with Microsoft Word, Microsoft Excel and Google Docs"/>
+                    <Dropdown title="Languages" item1="C1 English: IELTS 8.0" item2="A2 German: Goethe Zertifikat A2"/>
+                    <Dropdown title="Projects & Research" item1="Health and Education Foundation Project Competition Winner - Rainwater Harvest Project: 2018" 
+                    item2="Android Calendar Application - Calendy: Coded in Android Studio with Java and XML" item3="Research Paper - Detection of Face Morph Attacks on Facial ID Verification Systems: 2021"/>
                 </div>
             </div>
 
