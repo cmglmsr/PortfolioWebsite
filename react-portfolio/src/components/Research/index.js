@@ -7,7 +7,7 @@ const Research = () => {
         <div className="container research-page">
             <div className="text-zone">
                 <h1>
-                    This is research page!
+                    ------- Will be created soon! -----
                 </h1>
             </div>
         </div>
