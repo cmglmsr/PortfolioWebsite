@@ -14,12 +14,34 @@ h2 {
     }
 }
 
+.display-zone {
+    display: block;
+    position: absolute;
+    margin-top: 45%;
+    width: 100%;
+    height: fit-content;
+    .display-zone-text {
+        height: 200px;
+        font-family: Coolvetica;
+        color:rgb(199, 199, 199);
+        margin-left: 11%;
+        font-size: small;
+        letter-spacing: 0.3ch;
+        .display-item {
+            height: fit-content;
+            img {
+                height: 250px;
+            }
+        }
+    }
+} 
+
 .virtual-cv {
     height: fit-content;
     width: 100%;
     margin-left: 10%;
-    position: relative;
-    margin-top: 47%;
+    position: absolute;
+    margin-top: 100%;
     font-family:'Courier New';
     h1{
         font-size: 23px;
@@ -32,6 +54,7 @@ h2 {
 }
 
 .bottom-wrapper {
+    top: 200%;
     height: fit-content;
 }
 

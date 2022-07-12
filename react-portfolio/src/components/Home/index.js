@@ -36,10 +36,10 @@ const Home = () => {
                 </h1>
 
                 <h2>
-                    Welcome to my website where I talk a bit about myself, 
+                    Welcome to my website where I talk a bit about myself, display my CV, 
                     share my contact information, present my research and other
                     interesting stuff. See the sidebar to navigate through the 
-                    site, or use the buttons below.
+                    site, or use the buttons below. Scroll down to see some boring updates I share about things in general.
                 </h2>
 
                 <Link to="/contact" className='flat-button'> Contact Me</Link>
@@ -62,12 +62,19 @@ const Home = () => {
 
             <div className="text-zone2">
                 <h1>
-                    What I have been up to recently...
+                    What I have been up to...
                 </h1>
                 <h2 className="header2">
+                    08.06.2022 <br/>
                     Recently I have been working on the design of this website as well as learning JavaScript and SCSS.
                     In addition to those, I am taking a course on Python programming and cybersecurity. Aside from these,
-                    I spend time with my family, friends, and my precious dog Luna. I always find time to have fun as well! 
+                    I spend time with my family, friends, and my dog Luna. I always find time to have fun as well! 
+                </h2>
+                <h2 className="header2">
+                    12.07.2022<br/>
+                    I have completed my internship at SunExpress and am back at home in Izmir. Currently just chilling at home
+                    and waiting for my friends to return back here. Hopefully I will resume my courses on cybersecurity, penetration testing 
+                    and scripting. Another thing I have in mind is to take the PortSwigger exam after I complete the labs. 
                 </h2>
                 <br /> <br /> <br /> <br /> <br /> <br />
             </div>
