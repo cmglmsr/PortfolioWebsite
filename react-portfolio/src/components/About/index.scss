@@ -17,19 +17,41 @@ h2 {
 .display-zone {
     display: block;
     position: absolute;
-    margin-top: 45%;
+    margin-top: 50%;
     width: 100%;
     height: fit-content;
     .display-zone-text {
-        height: 200px;
+        height: fit-content;
         font-family: Coolvetica;
         color:rgb(199, 199, 199);
         margin-left: 11%;
         font-size: small;
         letter-spacing: 0.3ch;
+        a {
+            color:#fff;
+            &:hover {
+                color: yellow;
+            }
+        }
+        
         .display-item {
-            height: fit-content;
+            height: 350px;
             img {
+                position: absolute;
+                height: 250px;
+            }
+            p {
+                font-size: medium;
+                position: absolute;
+                margin-left: 350px;
+                width: 50%;
+            }
+        }
+        .display-item-mid {
+            width: 90%;
+            height: 350px;
+            img {
+                margin-left: 70%;
                 height: 250px;
             }
         }
@@ -41,7 +63,7 @@ h2 {
     width: 100%;
     margin-left: 10%;
     position: absolute;
-    margin-top: 100%;
+    margin-top: 140%;
     font-family:'Courier New';
     h1{
         font-size: 23px;
@@ -54,7 +76,7 @@ h2 {
 }
 
 .bottom-wrapper {
-    top: 200%;
+    top: 300%;
     height: fit-content;
 }
 

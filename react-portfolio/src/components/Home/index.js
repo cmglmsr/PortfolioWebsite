@@ -39,7 +39,7 @@ const Home = () => {
                     Welcome to my website where I talk a bit about myself, display my CV, 
                     share my contact information, present my research and other
                     interesting stuff. See the sidebar to navigate through the 
-                    site, or use the buttons below. Scroll down to see some boring updates I share about things in general.
+                    site, or use the buttons below. Scroll down to see some updates I share about things in general.
                 </h2>
 
                 <Link to="/contact" className='flat-button'> Contact Me</Link>
@@ -76,11 +76,10 @@ const Home = () => {
                     and waiting for my friends to return back here. Hopefully I will resume my courses on cybersecurity, penetration testing 
                     and scripting. Another thing I have in mind is to take the PortSwigger exam after I complete the labs. 
                 </h2>
-                <br /> <br /> <br /> <br /> <br /> <br />
             </div>
 
             <div className='bottom-wrapper'>
-                <Bottom/>
+                <Bottom></Bottom>
             </div>
         </div>
     );

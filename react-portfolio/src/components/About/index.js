@@ -17,7 +17,7 @@ const About = () =>  {
                     About Me
                 </h1>
                 <h2>
-                    My full name is Mustafa Cem Gülümser. I am a sophomore Computer Science Student
+                    My full name is Mustafa Cem Gülümser. I am a junior Computer Science Student
                     from Bilkent University, Turkey. I was born in Ankara and I currently live in Izmir.
                     I have a very curious nature and I am always open to learning. I really like watching 
                     and playing basketball. 
@@ -39,14 +39,23 @@ const About = () =>  {
                 <div className="display-zone-text">
                     <div className='display-item'>
                         <h1>Bilkent University High Honor Student</h1>
+                        <p> High Honor Student award is given to distinct students who perform much above the expected standards.
+                            I was given this award for three semesters since I entered the university, and was awarded High Honor 
+                            one semester. In the university webpage, it is defined as "Students achieving distinction by obtaining 
+                            a semester GPA of 3.00 to 3.49 while carrying at least a minimum course load and having a CGPA of 2.00 
+                            or higher are designated "Honor" students on the transcript for that semester. Those achieving a GPA of 
+                            3.50 or above, under the same conditions, are designated "High Honor" students." Click this link for full
+                            details on achieving a High Honor Student status in Bilkent University. <br/><br/>
+                            <a href="https://catalog.bilkent.edu.tr/general/standing.html"> Go to webpage {'>'}{'>'} </a>
+                        </p>
                         <img src={bilk} alt=''></img>
                     </div>
-                    <div className='display-item'>
+                    <div className='display-item-mid'>
                         <h1>Microsoft Certified Azure Network Engineer Associate</h1>
                         <img src={az700} alt=''></img>
                     </div>
                     <div className='display-item'>
-                        <h1>American Collegiate Institute 4th in Academic Standing</h1>
+                        <h1>American Collegiate Institute IBDP & 4th in Academic Standing</h1>
                         <img src={aci} alt=''></img>
                     </div>
                 </div>
