@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.d5035c6e.css",
-    "main.js": "/static/js/main.4761ee13.js",
+    "main.css": "/static/css/main.5fc720e0.css",
+    "main.js": "/static/js/main.56099316.js",
     "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
+    "static/media/Detection_of_Face_Morph_Attacks_on_Facial_ID_Verification_Systems-M.Cem_Gulumser.pdf": "/static/media/Detection_of_Face_Morph_Attacks_on_Facial_ID_Verification_Systems-M.Cem_Gulumser.6374221c6810db172fa7.pdf",
     "static/media/me.jpg": "/static/media/me.d9927ebc4b9529770be7.jpg",
     "static/media/ph1.png": "/static/media/ph1.db3140503a8dad57ed1a.png",
     "static/media/bilk.png": "/static/media/bilk.09457f16118c969a88ac.png",
@@ -14,12 +15,12 @@
     "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
     "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/index.html",
-    "main.d5035c6e.css.map": "/static/css/main.d5035c6e.css.map",
-    "main.4761ee13.js.map": "/static/js/main.4761ee13.js.map",
+    "main.5fc720e0.css.map": "/static/css/main.5fc720e0.css.map",
+    "main.56099316.js.map": "/static/js/main.56099316.js.map",
     "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5035c6e.css",
-    "static/js/main.4761ee13.js"
+    "static/css/main.5fc720e0.css",
+    "static/js/main.56099316.js"
   ]
 }
