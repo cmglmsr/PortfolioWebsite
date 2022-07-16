@@ -1,0 +1,29 @@
+.research-page {
+    font-family:'Coolvetica';
+    color:rgb(187, 183, 183);
+    padding-top: 80px;
+    .text-zone {
+        h1 {
+            font-size: 36px;
+            margin-left: 7%;
+        }
+        h2 {
+            font-size: 24px;
+            margin-left: 7%;
+        }
+        p {
+            margin-left: 8%;
+            font-size:large;
+            width: 80%;
+        }
+        a {
+            color:antiquewhite;
+            margin-left: 70%;
+            font-size: large;
+            &:hover {
+                color:yellow;
+            }
+        }
+        
+    }
+}
