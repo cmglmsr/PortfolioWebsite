@@ -61,21 +61,7 @@ const Home = () => {
             </div>
 
             <div className="text-zone2">
-                <h1>
-                    What I have been up to...
-                </h1>
-                <h2 className="header2">
-                    08.06.2022 <br/>
-                    Recently I have been working on the design of this website as well as learning JavaScript and SCSS.
-                    In addition to those, I am taking a course on Python programming and cybersecurity. Aside from these,
-                    I spend time with my family, friends, and my dog Luna. I always find time to have fun as well! 
-                </h2>
-                <h2 className="header2">
-                    12.07.2022<br/>
-                    I have completed my internship at SunExpress and am back at home in Izmir. Currently just chilling at home
-                    and waiting for my friends to return back here. Hopefully I will resume my courses on cybersecurity, penetration testing 
-                    and scripting. Another thing I have in mind is to take the PortSwigger exam after I complete the labs. 
-                </h2>
+                
             </div>
 
             <div className='bottom-wrapper'>

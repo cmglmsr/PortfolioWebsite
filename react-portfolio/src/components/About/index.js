@@ -25,7 +25,7 @@ const About = () =>  {
                     I wish to pursue a career in cybersecurity after university, but of course it is flexible.
                     Life is usually unexpected and I am willing to take every opportunity life may throw at me. 
                     Currently I spend most of my free time on project-based learning in cybersecurity, algorithms 
-                    and frontend web development... And of course I watch the NBA finals.
+                    and frontend web development.
                     <br/><br/>
                     See some of my achievements and virtual CV below.
                 </h2>
@@ -40,7 +40,7 @@ const About = () =>  {
                     <div className='display-item'>
                         <h1>Bilkent University High Honor Student</h1>
                         <p> High Honor Student award is given to distinct students who perform much above the expected standards.
-                            I was given this award for three semesters since I entered the university, and was awarded High Honor 
+                            I was given this award for three semesters since I entered the university, and was awarded Honor Student 
                             one semester. In the university webpage, it is defined as "Students achieving distinction by obtaining 
                             a semester GPA of 3.00 to 3.49 while carrying at least a minimum course load and having a CGPA of 2.00 
                             or higher are designated "Honor" students on the transcript for that semester. Those achieving a GPA of 
@@ -53,9 +53,9 @@ const About = () =>  {
                     <div className='display-item-mid'>
                         <h1>Microsoft Certified Azure Network Engineer Associate</h1>
                         <p> While doing my internship at SunExpress as a network and cybersecurity engineer, I also found chance to
-                            learn about the fundamentals of cloud computing,, networking and security. One of the objectives we were
+                            learn about the fundamentals of cloud computing, networking and security. One of the objectives we were
                             working towards was to migrate the on-premises resources to cloud. Working on this task allowed me to learn
-                            many things about Microsoft Azure. I wanted to further my knowled   ge on this topic by working on it myself and
+                            many things about Microsoft Azure. I wanted to further my knowledge on this topic by working on it myself and
                             apply for the certification exam of Microsoft. With the help of my experienced supervisors, I succesfully passed
                             the exam and earned the Azure Network Engineer Associate certification. I am open to working as a cloud network 
                             engineer or cloud solutions architect!<br/><br/>
