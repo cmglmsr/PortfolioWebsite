@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5fc720e0.css",
-    "main.js": "/static/js/main.56099316.js",
+    "main.js": "/static/js/main.5e160c22.js",
     "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
     "static/media/Detection_of_Face_Morph_Attacks_on_Facial_ID_Verification_Systems-M.Cem_Gulumser.pdf": "/static/media/Detection_of_Face_Morph_Attacks_on_Facial_ID_Verification_Systems-M.Cem_Gulumser.6374221c6810db172fa7.pdf",
     "static/media/me.jpg": "/static/media/me.d9927ebc4b9529770be7.jpg",
@@ -16,11 +16,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/index.html",
     "main.5fc720e0.css.map": "/static/css/main.5fc720e0.css.map",
-    "main.56099316.js.map": "/static/js/main.56099316.js.map",
+    "main.5e160c22.js.map": "/static/js/main.5e160c22.js.map",
     "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5fc720e0.css",
-    "static/js/main.56099316.js"
+    "static/js/main.5e160c22.js"
   ]
 }
